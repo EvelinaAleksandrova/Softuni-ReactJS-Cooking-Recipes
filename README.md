@@ -1,1 +1,1 @@
-# Softuni-ReactJS-Cooking-Recipes
+# Softuni-ReactJS-Workshop-Single-Page-Application-Route-My-Pets
